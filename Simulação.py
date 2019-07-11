@@ -1,6 +1,6 @@
 #Iniciamente, iremos declarar as constantes. A partir desses valores, os demais serão determinados.
-x0 = float(input("Insira o valor de xo:"))
-y0 = float(input("Insira o valor de yo:"))
+x0 = float(input("Insira o valor de x0:"))
+y0 = float(input("Insira o valor de y0:"))
 n1 = float(input("Insira o valor de n1:"))
 n2 = float(input("Insira o valor de n2:"))
 
